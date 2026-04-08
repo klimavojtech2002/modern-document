@@ -12,3 +12,4 @@ coverage/
 test-output.html
 modern-document.jsx
 modern-document-spec.md
+.claude/
