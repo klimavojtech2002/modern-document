@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node src/cli/index.js styles)",
+      "Bash(node src/cli/index.js components)"
+    ]
+  }
+}

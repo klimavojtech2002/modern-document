@@ -1,0 +1,21 @@
+{
+  "name": "Modern Document",
+  "tagline": "Documents worth reading.",
+  "web": "moderndocument.app",
+  "email": "hello@moderndocument.app",
+  "colors": {
+    "primary": "#0F0F0F",
+    "accent": "#2563EB",
+    "muted": "#868B93",
+    "surface": "#F6F6F8"
+  },
+  "fonts": {
+    "heading": "Georgia, serif",
+    "body": "-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+  },
+  "style": "modern",
+  "footer": {
+    "showContact": true,
+    "note": ""
+  }
+}

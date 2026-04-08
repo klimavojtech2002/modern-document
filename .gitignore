@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.pdf
+*.html
+!index.html
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.log
+coverage/
+test-output.html
+modern-document.jsx
+modern-document-spec.md
